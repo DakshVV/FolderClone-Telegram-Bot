@@ -60,3 +60,7 @@ Example : `/folderclone FSAF3213FD3S2341 FSAF3213FD3S2342 25 0 FSAF3DE45D3S2356`
 
 ### Note
 `folderclone.py` - Modified version of `multifolderclone.py` from [Multifolderclone](https://github.com/justcopy/Multifolderclone).
+
+## Thanks to :heart:
+
+- [Loli Killer](https://github.com/Loli-Killer/TgFolderClone)
